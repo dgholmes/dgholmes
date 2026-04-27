@@ -20,6 +20,12 @@ I’m a developer based in South Korea, operating at the intersection of **hardw
 - 📱 **Crafting:** Building cross-platform apps with React, Capacitor, Flet, and JavaFX.
 - 🎯 **Current Objective:** Developing products that fuse AI, UX, and real-world workflows.
 
+<div align="center">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&theme=synthwave&show_icons=true&hide_border=true&count_private=true" alt="Dogi's GitHub Stats" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&theme=synthwave&layout=compact&hide_border=true" alt="Dogi's Top Languages" />
+</div>
+<br>
+
 ---
 
 ## 🚧 Current Quests
