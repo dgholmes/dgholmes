@@ -1,11 +1,11 @@
-# 👾 Player 1: Dogi (Gani Dogara Yunana) has entered the chat!
+# 👾 Player 1: dgholmes has entered the chat!
 
 ```text
-      [+]         [+]      < "Systems online. Commencing flight." >
+    [+]           [+]      < "Systems online. Commencing flight." >
        \_________/
        |   [O]   |
       /           \
-    [+]           [+]
+   [+]             [+]
 ```
 
 🚀 **Class: Hardware/Software Engineer | Specialization: AI, Drones & App Building**
